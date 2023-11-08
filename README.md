@@ -5,7 +5,7 @@
 
 ## Проекты
 
-<img align="left" width="250" height="150" src="https://github.com/merae70/Portfolio/blob/main/img/store_sales.jpg"> **[Прогноз продаж магазинов в Эквадоре]**
+<img align="left" width="250" height="150" src="https://github.com/merae70/Portfolio/blob/main/img/store_sales.jpg"> **[Прогноз продаж магазинов в Эквадоре](https://github.com/merae70/da_projects/tree/main/store_sales_forecasting)**
 
 В этом проекте я провела анализ продаж магазинов в Эквадоре, установила зависимость между ценами на продукты и на нефть в этой стране, проанализировала, как сезон и цены на нефть влияют на количество совершаемых транзакций в стране.
 
@@ -14,7 +14,7 @@
 #
 
 
-<img align="left" width="250" height="150" src="https://github.com/merae70/Portfolio/blob/main/img/ab-testing2.jpg"> **[АБ тест конверсии и CTR]**
+<img align="left" width="250" height="150" src="https://github.com/merae70/Portfolio/blob/main/img/ab-testing2.jpg"> **[АБ тест конверсии и CTR](https://github.com/merae70/da_projects/tree/main/ab_testing)**
 
 В этом проекте я провела анализ A/B-тестирования, в котором сравнивались конверсия и CTR пользователей контрольной и тестовой группы, а также визуализировала полученные результаты
 
@@ -22,7 +22,7 @@
 
 #
 
-<img align="left" width="250" height="150" overflow="hidden" src="https://github.com/merae70/Portfolio/blob/main/img/vacancy_cloud.png"> **[Анализ вакансий data analyst на hh.ru]**
+<img align="left" width="250" height="150" overflow="hidden" src="https://github.com/merae70/Portfolio/blob/main/img/vacancy_cloud.png"> **[Анализ вакансий data analyst на hh.ru](https://github.com/merae70/da_projects/tree/main/hh_parsing)**
 
   В этом проекте я собрала информацию с HeadHunter API о вакансиях дата-аналитика с целью составить представление о трендах и спросе на рынке труда.
 
@@ -33,7 +33,7 @@
 #
 
 
-<img align="left" width="250" height="150" src="https://github.com/merae70/Portfolio/blob/main/img/ss_titanic.png"> **[Spaceship Titanic (kaggle)]**
+<img align="left" width="250" height="150" src="https://github.com/merae70/Portfolio/blob/main/img/ss_titanic.png"> **[Spaceship Titanic (kaggle)](https://github.com/merae70/da_projects/tree/main/spaceship_titanic)**
 
 Соревнование kaggle по анализу данных космического Титаника. Идея та же, что и у стандартного - предсказать, добрался ли пассажир до места назначения.
 
@@ -43,7 +43,7 @@
 #
 
 
-<img align="left" width="250" height="150" src="https://github.com/merae70/Portfolio/blob/main/img/power_bi.png"> **[Визуализация продаж магазина в PowerBI]**
+<img align="left" width="250" height="150" src="https://github.com/merae70/Portfolio/blob/main/img/power_bi.png"> **[Визуализация продаж магазина в PowerBI](https://github.com/merae70/da_projects/tree/main/power_bi)**
 
 Простые графики для отображения информации о продажах интернет-магазина - какие страны приносят больше прибыли, какие категории чаще покупают, как менялись продажи со временем?
 
@@ -52,7 +52,7 @@
 #
 
 
-<img align="left" width="250" height="150" src="https://github.com/merae70/Portfolio/blob/main/img/digit_recognizer.png"> **[Digit Recognizer]**
+<img align="left" width="250" height="150" src="https://github.com/merae70/Portfolio/blob/main/img/digit_recognizer.png"> **[Digit Recognizer](https://github.com/merae70/da_projects/tree/main/digit_recognizer)**
 
 В этом проекте я использовала методы обучения без учителя для решения стандартной задачи распознавания цифр по картинкам 28х28 пикселей.
 
