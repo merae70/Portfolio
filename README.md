@@ -67,10 +67,11 @@
   - [30 days of pandas (leetcode)] - практика использования pandas для обработки данных
 - ### Machine Learning:
     - [OpenML course (Домашние задания)](https://github.com/merae70/MLCourseAI-homework) - домашние задания курса от ODS по основам машинного обучения, затрагивающие все классические модели машинного обучения.
-
       **TF-IDF, Ridge, Lasso, Bootstrap, StandartScaler, RandomForest, BaggingClassifier, SearchCV, t-SNE, PCA, SGD, Time-Series** 
 - ### Статистика:
   - [Курс Hackerrank "10 дней статистики"] - 10 уроков по основам статистики с практикой
+  - [Анализ A/B теста] - анализ конверсии пользователя,
+  **T-test, Chi2-test, SciPy** 
  
 
 ## Навыки:
